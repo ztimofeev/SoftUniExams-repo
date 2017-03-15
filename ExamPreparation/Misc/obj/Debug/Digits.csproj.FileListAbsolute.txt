@@ -1,0 +1,5 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Misc\bin\Debug\Misc.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Misc\bin\Debug\Misc.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Misc\bin\Debug\Misc.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Misc\obj\Debug\Misc.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Misc\obj\Debug\Misc.pdb

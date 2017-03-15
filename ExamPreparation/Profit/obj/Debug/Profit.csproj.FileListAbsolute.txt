@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Profit\bin\Debug\Profit.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Profit\bin\Debug\Profit.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Profit\bin\Debug\Profit.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Profit\obj\Debug\Profit.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Profit\obj\Debug\Profit.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Profit\obj\Debug\Profit.pdb

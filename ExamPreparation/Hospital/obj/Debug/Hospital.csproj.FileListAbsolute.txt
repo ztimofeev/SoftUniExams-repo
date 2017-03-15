@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Hospital\bin\Debug\Hospital.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Hospital\bin\Debug\Hospital.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Hospital\bin\Debug\Hospital.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Hospital\obj\Debug\Hospital.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Hospital\obj\Debug\Hospital.pdb

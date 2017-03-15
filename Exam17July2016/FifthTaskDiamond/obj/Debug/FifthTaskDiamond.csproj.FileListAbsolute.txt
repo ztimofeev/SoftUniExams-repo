@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\Exam17July2016\FifthTaskDiamond\bin\Debug\FifthTaskDiamond.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\Exam17July2016\FifthTaskDiamond\bin\Debug\FifthTaskDiamond.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Exam17July2016\FifthTaskDiamond\bin\Debug\FifthTaskDiamond.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\Exam17July2016\FifthTaskDiamond\obj\Debug\FifthTaskDiamond.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2017\Projects\Exam17July2016\FifthTaskDiamond\obj\Debug\FifthTaskDiamond.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Exam17July2016\FifthTaskDiamond\obj\Debug\FifthTaskDiamond.pdb

@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Axe\bin\Debug\Axe.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Axe\bin\Debug\Axe.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Axe\bin\Debug\Axe.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Axe\obj\Debug\Axe.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Axe\obj\Debug\Axe.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\Axe\obj\Debug\Axe.pdb

@@ -1,0 +1,5 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\businessProject\bin\Debug\businessProject.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\businessProject\bin\Debug\businessProject.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\businessProject\bin\Debug\businessProject.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\businessProject\obj\Debug\businessProject.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\ExamPreparation\businessProject\obj\Debug\businessProject.pdb
